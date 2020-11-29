@@ -1,0 +1,70 @@
+*{padding: 0; 
+    margin: 0;
+
+}
+body{
+    background:linear-gradient(rgb(254, 255, 254)255) 10%, rgb(7, 240, 7) 90%;
+    text-align:center;
+}
+header{
+    width: 100%;
+    position: fixed;
+    box-shadow:0px 10px 30px green;
+    background:linear-gradient(rgb(20, 82, 28) 20%, rgb(32, 119, 32) 80%);
+    text-align:center;
+}
+h1{
+    padding: 10px;
+    font-size: bold 30px;
+    font-family: fantasy;
+    color:white;
+    letter-spacing: 38px;
+}
+h1:hover{
+    color:yellowgreen;
+    font-size: 40px;
+}
+nav{width: 100%;}
+#menu{
+    padding:15px;
+    display: inline-block ;
+    width:90%;
+
+}
+#logo{
+    width: 4.5%;
+    float: left;
+    margin:10px;
+    right: 200px;
+}
+#logo:hover{
+    opacity: 201;
+    border-radius: 500px;
+   transform: scale(2.5) ;
+    box-shadow:4px 0px 90px white;
+}
+#menu ul li{
+    display:inline;
+    padding: 15px;
+}
+#menu ul a{
+    text-decoration:none;
+    font: bold 15px verdana;
+    padding: 1em 1em;
+    margin: auto;
+    color:white;
+
+}
+
+#menu ul a:hover{
+    color:yellowgreen;
+    font-size: 21px;
+    box-shadow:0px 0px 50px white;
+}
+#portada{
+    padding: 160px;
+}
+#espacio{
+    padding:60px;
+}
+

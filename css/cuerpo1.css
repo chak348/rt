@@ -1,0 +1,85 @@
+
+body{
+    background-color:rgb(17, 63, 17);
+}
+h2{
+    font-size:39px;
+    color:white;
+}
+*{
+    color:white;
+}
+p{
+    text-decoration:none;
+    font: bold 15px verdana;
+    padding: 1em 1em;
+    margin: auto;
+    text-decoration:none;
+    font: bold 15px verdana;
+    padding: 1em 1em;
+    margin: auto;
+    text-align:center;
+}
+#pepe{
+    position: relative;
+    margin:2em auto;
+    left:800px ;
+    width:700px;    
+}
+
+#jose{
+    position: relative;
+    margin:2em auto;
+    right:800px;
+    width:700px;
+    
+}
+h3{
+    font-size: 30px;
+}
+#acerca{
+    text-align: left;
+}
+#img{
+    /* margin:2em auto; */
+    left:800px ;
+    width: 350px;
+    
+    
+}
+#restaurantes{
+    margin:2em auto;
+     text-align: left;
+     display:inline-block;
+    /* right:20px; */
+    padding: 20px;
+    background-color:rgba(19, 131, 19, 0.753);
+    box-shadow:1px 10px 30px green;
+    
+
+
+
+}
+
+#texto{
+
+    width: 500px;
+
+         display:inline-block;
+         
+    
+}
+#v{
+    box-shadow: 20 20 20 20 green;
+}
+#mp{
+    margin:1em auto;
+
+    background-color: green;
+}
+#img2{
+    width:900px;
+}
+#texto2{
+    width:1000px;
+}
